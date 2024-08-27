@@ -2,5 +2,5 @@ pandas
 numpy
 plotly
 seaborn
-scipy
 streamlit
+scipy
