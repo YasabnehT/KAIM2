@@ -1,9 +1,23 @@
 pandas
 numpy
+scikit-learn
 plotly
 scipy
 streamlit
 seaborn
 nbformat
+tensorflow
+tf-keras
+
+# for sentiment analysis
 # textblob
 vaderSentiment
+
+# for Keyword Extraction and topic modeling
+nltk
+# spacy==3.7.6
+# thinc==8.2.5
+transformers
+gensim 
+pyLDAvis 
+yake
