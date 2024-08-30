@@ -21,3 +21,6 @@ transformers
 gensim 
 pyLDAvis 
 yake
+
+# for Task-2
+TA-Lib
